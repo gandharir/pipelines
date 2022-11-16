@@ -55,6 +55,8 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>cicd-pipelines</finalName>
 	</build>
+
 
 </project>
